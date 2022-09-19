@@ -2,8 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Larsen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:(https://www.linkedin.com/in/larsen-da-costa-b0aa7122b/))
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Larsen-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Larsen-yellow)]()
 
 I'm
 Full Stack Solution Architect
