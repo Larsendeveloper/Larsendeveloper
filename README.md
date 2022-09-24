@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-
-![Linkedin Badge](https://img.shields.io/badge/-Larsen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:(https://www.linkedin.com/in/larsen-da-costa-b0aa7122b/))
+[![Linkedin Badge](https://img.shields.io/badge/-Larsen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Larsen--01629954/)](https://www.linkedin.com/in/larsen-da-costa-b0aa7122b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Larsen-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Larsen-yellow)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Larsen-yellow)](https://stackoverflow.com/users/20078258/larsen-dacosta)
 
 I'm
 Full Stack Solution Architect
